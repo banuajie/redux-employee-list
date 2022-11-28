@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1669557457159,
+      "nama": "Nugraha Banuajie",
+      "jk": "Laki-laki",
+      "jabatan": "Front-End Developer",
+      "status": "Pegawai Tetap",
+      "transportasi": [
+        "Motor",
+        "Transportasi Umum"
+      ],
+      "alamat": "Bandung"
+    },
+    {
+      "id": 1669557491221,
+      "nama": "Reza Pramudya",
+      "jk": "Laki-laki",
+      "jabatan": "Content Gofood",
+      "status": "Pegawai Vendor",
+      "transportasi": [
+        "Motor"
+      ],
+      "alamat": "Semarang"
+    },
+    {
+      "id": 1669557528487,
+      "nama": "Anggi",
+      "jk": "Perempuan",
+      "jabatan": "Team Marketing",
+      "status": "Pegawai Vendor",
+      "transportasi": [
+        "Mobil",
+        "Motor"
+      ],
+      "alamat": "Surabaya"
+    }
+  ]
+}
