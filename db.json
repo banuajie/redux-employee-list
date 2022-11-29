@@ -19,7 +19,8 @@
       "jabatan": "Content Gofood",
       "status": "Pegawai Vendor",
       "transportasi": [
-        "Motor"
+        "Motor",
+        "Mobil"
       ],
       "alamat": "Semarang"
     },
@@ -30,7 +31,6 @@
       "jabatan": "Team Marketing",
       "status": "Pegawai Vendor",
       "transportasi": [
-        "Mobil",
         "Motor"
       ],
       "alamat": "Surabaya"
@@ -43,7 +43,6 @@
       "status": "Pegawai Intern",
       "transportasi": [
         "Motor",
-        "Transportasi Umum",
         "Mobil"
       ],
       "alamat": "Ngawi"
