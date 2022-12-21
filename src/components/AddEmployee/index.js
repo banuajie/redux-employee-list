@@ -67,6 +67,8 @@ const AddEmployee = () => {
         // show message when one of input form unfilled
         if (nama === "" || jk === "" || jabatan === "" || status === "" || transportasi === [] || alamat === "") {
             return setMessage(true);
+        } else if (checkMobil === false && checkMotor === false && checkUmum === false) {
+            return setMessage(true);
         }
 
         setMessage(false);

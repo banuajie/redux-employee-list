@@ -7,8 +7,8 @@
       "jabatan": "Front-End Developer",
       "status": "Pegawai Tetap",
       "transportasi": [
-        "Motor",
-        "Transportasi Umum"
+        "Mobil",
+        "Motor"
       ],
       "alamat": "Bandung"
     },
@@ -69,6 +69,17 @@
         "Motor"
       ],
       "alamat": "Garut"
+    },
+    {
+      "id": 1671591351452,
+      "nama": "Rizal",
+      "jk": "Laki-laki",
+      "jabatan": "Team Marketing",
+      "status": "Pegawai Tetap",
+      "transportasi": [
+        "Transportasi Umum"
+      ],
+      "alamat": "Ciamis"
     }
   ]
 }
