@@ -1,0 +1,61 @@
+{
+  "employees": [
+    {
+      "id": 1672845356612,
+      "nama": "Nugraha Banuajie",
+      "jk": "Laki-laki",
+      "jabatan": "Front-End Developer",
+      "status": "Pegawai Tetap",
+      "transportasi": [
+        "Motor"
+      ],
+      "alamat": "Bandung"
+    },
+    {
+      "id": 1672845395451,
+      "nama": "Dwi Fitrianingsih",
+      "jk": "Perempuan",
+      "jabatan": "Technical Writer",
+      "status": "Pegawai Vendor",
+      "transportasi": [
+        "Mobil",
+        "Transportasi Umum"
+      ],
+      "alamat": "Medan"
+    },
+    {
+      "id": 1672845416412,
+      "nama": "Caca Marisa",
+      "jk": "Perempuan",
+      "jabatan": "Team Marketing",
+      "status": "Pegawai Intern",
+      "transportasi": [
+        "Mobil",
+        "Transportasi Umum"
+      ],
+      "alamat": "Jakarta"
+    },
+    {
+      "id": 1672895695660,
+      "nama": "Reza Pramudya",
+      "jk": "Laki-laki",
+      "jabatan": "Content Gofood",
+      "status": "Pegawai Vendor",
+      "transportasi": [
+        "Motor"
+      ],
+      "alamat": "Pandeglang"
+    },
+    {
+      "id": 1672897688485,
+      "nama": "Firman Naufal Najib",
+      "jk": "Laki-laki",
+      "jabatan": "Admin",
+      "status": "Pegawai Intern",
+      "transportasi": [
+        "Motor"
+      ],
+      "alamat": "Mojokerto"
+    }
+  ]
+}
